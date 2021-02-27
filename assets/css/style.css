@@ -21,7 +21,7 @@ header {
     background-color: #2a607c;
 }
 
-.first {
+#first {
     padding-top: 15px;
     margin-right: 20px;
     float: right;
@@ -82,23 +82,23 @@ p {
     background-color: #2589bd;
 }
 
-.benefit-lead, .benefit-brand, .benefit-cost {
+.fifth, .sixth, .seventh {
     margin-bottom: 32px;
     color: #ffffff;
 }
 
-.benefit-lead h3, .benefit-brand h3, .benefit-cost h3 {
+.fifth h3, .sixth h3, .seventh h3 {
     margin-bottom: 10px;
     text-align: center;
 }
 
-.benefit-lead img, .benefit-brand img, .benefit-cost img {
+.fifth img, .sixth img, .seventh img {
     display: block;
     margin: 10px auto;
     max-width: 150px;
 }
 
-.search-engine-optimization, .online-reputation-management, .social-media-marketing {
+#second, #third, #fourth {
     margin-bottom: 20px;
     padding: 50px;
     height: 300px;
