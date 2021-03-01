@@ -45,8 +45,8 @@ THEN I find a concise, descriptive title
 
 You are required to submit the following for review:
 
-* The URL of the deployed application.
+* The URL of the deployed application.  http://tfletch3018.github.io/Refactoring-Horiseon-Marketing-Agency
 
-* The URL of the GitHub repository, with a unique name and a README that describes the project.
+* The URL of the GitHub repository, with a unique name and a README that describes the project. https://github.com/tfletch3018/Refactoring-Horiseon-Marketing-Agency
 
 ---
